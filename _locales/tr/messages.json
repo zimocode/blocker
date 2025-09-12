@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Uyarı:<br>1. Bu uzantı yalnızca bir şifre belirlendikten sonra çalışır. <br>2. Lütfen şifreyi belirlemeden önce benzer uzantıların kurulu olmadığından emin olun, çünkü bu tarayıcının yanlış çalışmasına neden olabilir.</i>"
+    },
+    "show_password": {
+        "message": "Parolayı göster"
+    },
+    "hide_password": {
+        "message": "Parolayı gizle"
     }
 }

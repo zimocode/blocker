@@ -61,5 +61,11 @@
     },
     "notif_first":{
         "message":"<i>Warning:<br>1. This extension will only be functional after a password is set.  <br>2. Please ensure that no similar extensions are installed before setting the password, as this may cause the browser to malfunction.</i>"
+    },
+    "show_password": {
+        "message": "Show password"
+    },
+    "hide_password": {
+        "message": "Hide password"
     }
 }

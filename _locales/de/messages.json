@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Warnung:<br>1. Diese Erweiterung ist nur funktionsfähig, nachdem ein Passwort festgelegt wurde. <br>2. Bitte stellen Sie sicher, dass vor der Festlegung des Passworts keine ähnlichen Erweiterungen installiert sind, da dies zu Fehlfunktionen des Browsers führen kann.</i>"
+    },
+    "show_password": {
+        "message": "Passwort anzeigen"
+    },
+    "hide_password": {
+        "message": "Passwort verbergen"
     }
 }

@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Advarsel:<br>1. Denne utvidelsen vil kun være funksjonell etter at et passord er angitt. <br>2. Vennligst sørg for at ingen lignende utvidelser er installert før du angir passordet, da dette kan føre til at nettleseren ikke fungerer som den skal.</i>"
+    },
+    "show_password": {
+        "message": "Vis passord"
+    },
+    "hide_password": {
+        "message": "Skjul passord"
     }
 }

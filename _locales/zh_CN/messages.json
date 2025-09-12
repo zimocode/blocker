@@ -61,5 +61,11 @@
     },
     "notif_first":{
         "message":"<i>警告:<br>1. 此扩展仅在设置密码后才能正常工作。 <br>2. 请确保在设置密码之前没有安装任何类似的扩展，因为这可能导致浏览器出现故障。</i>"
+    },
+    "show_password": {
+        "message": "显示密码"
+    },
+    "hide_password": {
+        "message": "隐藏密码"
     }
 }

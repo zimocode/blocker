@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Upozorenje:<br>1. Ova ekstenzija će biti funkcionalna samo nakon postavljanja lozinke. <br>2. Molimo vas da se uvjerite da prije postavljanja lozinke nisu instalirani slični dodaci, jer to može uzrokovati neispravnost preglednika.</i>"
+    },
+    "show_password": {
+        "message": "Prikaži lozinku"
+    },
+    "hide_password": {
+        "message": "Sakrij lozinku"
     }
 }

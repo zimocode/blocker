@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Ostrzeżenie:<br>1. To rozszerzenie będzie funkcjonalne tylko po ustawieniu hasła. <br>2. Proszę upewnić się, że przed ustawieniem hasła nie są zainstalowane podobne rozszerzenia, ponieważ może to spowodować awarię przeglądarki.</i>"
+    },
+    "show_password": {
+        "message": "Pokaż hasło"
+    },
+    "hide_password": {
+        "message": "Ukryj hasło"
     }
 }

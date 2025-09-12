@@ -60,6 +60,12 @@
         "message": "Codice Sorgente"
     },
     "notif_first": {
-        "message": "<i>Avvertenza:<br>1. Questa estensione sarà funzionante solo dopo aver impostato una password. <br>2. Assicurati che non siano installate estensioni simili prima di impostare la password, poiché questo potrebbe causare malfunzionamenti del browser.</i>"
+        "message": "<i>Avviso:<br>1. Questa estensione funzionerà solo dopo aver impostato una password. <br>2. Assicurati che non siano installate estensioni simili prima di impostare la password, poiché ciò potrebbe causare malfunzionamenti del browser.</i>"
+    },
+    "show_password": {
+        "message": "Mostra password"
+    },
+    "hide_password": {
+        "message": "Nascondi password"
     }
 }

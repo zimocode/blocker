@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Avertissement :<br>1. Cette extension ne sera fonctionnelle qu'après avoir défini un mot de passe. <br>2. Veuillez vous assurer qu'aucune extension similaire n'est installée avant de définir le mot de passe, car cela peut entraîner un dysfonctionnement du navigateur.</i>"
+    },
+    "show_password": {
+        "message": "Afficher le mot de passe"
+    },
+    "hide_password": {
+        "message": "Masquer le mot de passe"
     }
 }

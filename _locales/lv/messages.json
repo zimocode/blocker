@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Brīdinājums:<br>1. Šis paplašinājums darbosies tikai pēc paroles iestatīšanas. <br>2. Lūdzu, pārliecinieties, ka pirms paroles iestatīšanas nav instalēti līdzīgi paplašinājumi, jo tas var izraisīt pārlūkprogrammas darbības traucējumus.</i>"
+    },
+    "show_password": {
+        "message": "Rādīt paroli"
+    },
+    "hide_password": {
+        "message": "Paslēpt paroli"
     }
 }

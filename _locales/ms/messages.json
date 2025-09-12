@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Amaran:<br>1. Sambungan ini hanya akan berfungsi setelah kata laluan ditetapkan. <br>2. Sila pastikan tiada sambungan serupa yang dipasang sebelum menetapkan kata laluan, kerana ini boleh menyebabkan pelayar tidak berfungsi dengan baik.</i>"
+    },
+    "show_password": {
+        "message": "Tunjukkan kata laluan"
+    },
+    "hide_password": {
+        "message": "Sembunyikan kata laluan"
     }
 }

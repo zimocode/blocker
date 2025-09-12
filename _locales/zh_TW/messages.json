@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>警告:<br>1. 此擴展僅在設置密碼後才能運行。 <br>2. 請確保在設置密碼之前沒有安裝任何類似的擴展，因為這可能會導致瀏覽器出現故障。</i>"
+    },
+    "show_password": {
+        "message": "顯示密碼"
+    },
+    "hide_password": {
+        "message": "隱藏密碼"
     }
 }

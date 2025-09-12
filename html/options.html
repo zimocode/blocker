@@ -16,9 +16,24 @@
         <notif></notif>
         <div id="user-first" class="user-first"></div>
         <passwd>
-            <input id="passwd-last" autofocus="autofocus" placeholder="" style="display:none;">
-            <input id="passwd-new" type="text" name="" placeholder="">
-            <input id="passwd-new-check" type="text" name="" placeholder="">
+            <div class="passwd-group" id="group-passwd-last" style="display:none;">
+                <input id="passwd-last" type="password" autofocus="autofocus" placeholder="">
+                <button type="button" class="toggle-visibility" aria-label="Show password" data-target="#passwd-last" title="Show password">
+                    <img src="../img/eye.svg" alt="" aria-hidden="true">
+                </button>
+            </div>
+            <div class="passwd-group">
+                <input id="passwd-new" type="password" name="" placeholder="">
+                <button type="button" class="toggle-visibility" aria-label="Show password" data-target="#passwd-new" title="Show password">
+                    <img src="../img/eye.svg" alt="" aria-hidden="true">
+                </button>
+            </div>
+            <div class="passwd-group">
+                <input id="passwd-new-check" type="password" name="" placeholder="">
+                <button type="button" class="toggle-visibility" aria-label="Show password" data-target="#passwd-new-check" title="Show password">
+                    <img src="../img/eye.svg" alt="" aria-hidden="true">
+                </button>
+            </div>
         </passwd>
         <btn>
             <button id="btn-save"></button>

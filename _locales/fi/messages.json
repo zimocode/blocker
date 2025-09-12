@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Varoitus:<br>1. Tämä laajennus toimii vain, kun salasana on asetettu. <br>2. Varmista, että salasanaa asettaessasi ei ole asennettu samanlaisia laajennuksia, sillä tämä voi aiheuttaa selaimen toimintahäiriöitä.</i>"
+    },
+    "show_password": {
+        "message": "Näytä salasana"
+    },
+    "hide_password": {
+        "message": "Piilota salasana"
     }
 }

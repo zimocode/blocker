@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Babala:<br>1. Ang pagpapalawak na ito ay magiging gumagana lamang pagkatapos itakda ang isang password. <br>2. Mangyaring tiyakin na walang katulad na mga extension na naka-install bago itakda ang password, dahil maaari itong magdulot ng malfunction ng browser.</i>"
+    },
+    "show_password": {
+        "message": "Ipakita ang password"
+    },
+    "hide_password": {
+        "message": "Itago ang password"
     }
 }

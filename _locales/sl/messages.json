@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Opozorilo:<br>1. To razširitev bo delovala le po nastavitvi gesla. <br>2. Poskrbite, da pred nastavitvijo gesla ne bodo nameščene podobne razširitve, saj to lahko povzroči nepravilno delovanje brskalnika.</i>"
+    },
+    "show_password": {
+        "message": "Pokaži geslo"
+    },
+    "hide_password": {
+        "message": "Skrij geslo"
     }
 }

@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Advarsel:<br>1. Denne udvidelse vil kun være funktionel, efter at en adgangskode er indstillet. <br>2. Sørg for, at der ikke er installeret lignende udvidelser, før du indstiller adgangskoden, da det kan medføre, at browseren ikke fungerer korrekt.</i>"
+    },
+    "show_password": {
+        "message": "Vis adgangskode"
+    },
+    "hide_password": {
+        "message": "Skjul adgangskode"
     }
 }

@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Onyo:<br>1. Kupanzi hii itafanya kazi tu baada ya kuweka nenosiri. <br>2. Tafadhali hakikisha kuwa hakuna nyongeza zinazofanana zilizowekwa kabla ya kuweka nenosiri, kwani hii inaweza kusababisha kivinjari kutofanya kazi vizuri.</i>"
+    },
+    "show_password": {
+        "message": "Onyesha nenosiri"
+    },
+    "hide_password": {
+        "message": "Ficha nenosiri"
     }
 }

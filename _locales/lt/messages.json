@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Įspėjimas:<br>1. Ši plėtinys veiks tik nustatant slaptažodį. <br>2. Prašome įsitikinti, kad prieš nustatydami slaptažodį nėra įdiegtų panašių plėtinių, nes tai gali sukelti naršyklės gedimus.</i>"
+    },
+    "show_password": {
+        "message": "Rodyti slaptažodį"
+    },
+    "hide_password": {
+        "message": "Slėpti slaptažodį"
     }
 }

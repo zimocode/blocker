@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Upozornenie:<br>1. Toto rozšírenie bude funkčné len po nastavení hesla. <br>2. Uistite sa, že pred nastavením hesla nie sú nainštalované podobné rozšírenia, pretože to môže spôsobiť nefunkčnosť prehliadača.</i>"
+    },
+    "show_password": {
+        "message": "Zobraziť heslo"
+    },
+    "hide_password": {
+        "message": "Skryť heslo"
     }
 }

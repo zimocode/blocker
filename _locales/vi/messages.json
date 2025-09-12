@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Cảnh báo:<br>1. Tiện ích mở rộng này chỉ hoạt động sau khi đặt mật khẩu. <br>2. Vui lòng đảm bảo rằng không có tiện ích mở rộng tương tự nào được cài đặt trước khi đặt mật khẩu, vì điều này có thể khiến trình duyệt không hoạt động đúng cách.</i>"
+    },
+    "show_password": {
+        "message": "Hiển thị mật khẩu"
+    },
+    "hide_password": {
+        "message": "Ẩn mật khẩu"
     }
 }

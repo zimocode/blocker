@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Atenție:<br>1. Această extensie va fi funcțională doar după ce se setează o parolă. <br>2. Vă rugăm să vă asigurați că nu sunt instalate extensii similare înainte de a seta parola, deoarece acest lucru poate duce la funcționarea defectuoasă a browserului.</i>"
+    },
+    "show_password": {
+        "message": "Afișează parola"
+    },
+    "hide_password": {
+        "message": "Ascunde parola"
     }
 }

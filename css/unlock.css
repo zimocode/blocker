@@ -51,14 +51,31 @@ main>* {
     /*    user-select: none;*/
 }
 
-passwd>div {
+.passwd-group {
+    position: relative;
     display: flex;
     flex-direction: row;
+    align-items: center;
     width: 100%;
 }
 
+.passwd-group input {
+    flex: 1 1 auto;
+    width: 100%;
+    box-sizing: border-box;
+    border: 1rem solid #ccc;
+    border-radius: 4rem;
+    outline: #888;
+    font-size: 16rem;
+    display: flex;
+    height: 48rem;
+    margin: 4rem;
+    padding: 4rem 44rem 4rem 12rem; /* extra right padding for eye button */
+    text-indent: 12rem;
+}
+
+/* standalone password inputs directly under <passwd> (unlock page) */
 passwd>input {
-    flex-direction: row;
     width: 100%;
     box-sizing: border-box;
     border: 1rem solid #ccc;
@@ -70,6 +87,31 @@ passwd>input {
     margin: 4rem;
     padding: 4rem 12rem;
     text-indent: 12rem;
+}
+
+.toggle-visibility {
+    position: absolute;
+    right: 16rem;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 32rem;
+    width: 32rem;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-size: 18rem;
+    line-height: 1;
+    opacity: 0.7;
+}
+
+.toggle-visibility:hover {
+    opacity: 1;
+}
+
+.toggle-visibility img {
+    display: block;
+    height: 24rem;
+    width: 24rem;
 }
 
 #passwd-title,

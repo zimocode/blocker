@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Waarschuwing:<br>1. Deze extensie is alleen functioneel nadat een wachtwoord is ingesteld. <br>2. Zorg ervoor dat er geen vergelijkbare extensies zijn geïnstalleerd voordat u het wachtwoord instelt, aangezien dit kan leiden tot een storing in de browser.</i>"
+    },
+    "show_password": {
+        "message": "Wachtwoord weergeven"
+    },
+    "hide_password": {
+        "message": "Wachtwoord verbergen"
     }
 }

@@ -61,5 +61,11 @@
     },
     "notif_first": {
         "message": "<i>Aviso:<br>1. Esta extensão só funcionará após a definição de uma senha. <br>2. Certifique-se de que não existem extensões semelhantes instaladas antes de definir a senha, pois isso pode causar mau funcionamento do navegador.</i>"
+    },
+    "show_password": {
+        "message": "Mostrar palavra-passe"
+    },
+    "hide_password": {
+        "message": "Ocultar palavra-passe"
     }
 }
